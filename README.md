@@ -1,2 +1,2 @@
 # Django
-Django-CRUD Operation Project
+Django-CRM CRUD Operation Project
